@@ -1,0 +1,3 @@
+[submodule "src/tugbot_ros2_pkgs"]
+	path = src/tugbot_ros2_pkgs
+	url = git@github.com:wakodeashay/tugbot_ros2_pkgs.git
